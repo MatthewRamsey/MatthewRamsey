@@ -5,6 +5,9 @@
 
 My name is Matthew Ramsey and I'm an Associate Director of Engineering at Ramsey Solutions (@lampo) out of Nashville, TN. For years, my passion has been mobile and VR/AR development but I've worked in full stack web applications most of my career. At Ramsey, we do work that matters to give HOPE to everyone in every walk of life. That bleeds through the digital products we create and its so much fun to solve these problems for our fans!
 
+![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewRamsey&count_private=true&show_icons=true&theme=react)
+
+
 ### My Tech Toolbox 🧰
 
 <p align="left">
@@ -34,5 +37,7 @@ My name is Matthew Ramsey and I'm an Associate Director of Engineering at Ramsey
     🤼 Brazilian Jiu Jitsu
   </li>
   </ul
+  
+  
 
 ![Visitor Count](https://profile-counter.glitch.me/{MatthewRamsey}/count.svg)
