@@ -16,7 +16,7 @@ My name is Matthew Ramsey and I'm an Associate Director of Engineering at Ramsey
 <img src="https://raw.githubusercontent.com/dotnet/brand/master/logo/dotnet-logo.png" alt="dotnet" height="40"/> 
 <img src="https://banner2.cleanpng.com/20180605/vkg/kisspng-java-runtime-environment-programming-language-prog-java-5b16ff20784b91.6967505015282337604927.jpg" alt="java" width="40" height="40"/> 
 <img src="https://megapng.com/images/bt/ruby-icon-10.png" alt="ruby" width="40" height="40"/>
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" alt="unity" width="40" height="40"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.jpg" alt="unity" width="40" height="40"/>
 </p>
 
 ### Ask Me About ❓
