@@ -1,4 +1,4 @@
-# [Bonjour, mon ami! (Hello, my friend!) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">](https://matthewramsey.github.io/matthewramsey.tech/)
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"/> [Bonjour, mon ami! (Hello, my friend!)](https://matthewramsey.github.io/matthewramsey.tech/)
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mr-tech/)
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Matthew__Ramsey)
 
