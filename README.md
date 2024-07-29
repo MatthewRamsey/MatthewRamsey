@@ -5,9 +5,6 @@
 
 My name is Matthew Ramsey and I'm an Associate Director of Engineering at Ramsey Solutions (@lampo) out of Nashville, TN. For years, my passion has been mobile and VR/AR development but I've worked in full stack web applications most of my career. At Ramsey, we do work that matters to give HOPE to everyone in every walk of life. That bleeds through the digital products we create and its so much fun to solve these problems for our fans!
 
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewRamsey&count_private=true&show_icons=true&theme=react)
-
-
 ### My Tech Toolbox 🧰
 
 <p align="left">
@@ -15,7 +12,6 @@ My name is Matthew Ramsey and I'm an Associate Director of Engineering at Ramsey
 <img src="https://cdn.iconscout.com/icon/free/png-512/xamarin-282427.png" alt="xamarin" height="40"/> 
 <img src="https://raw.githubusercontent.com/dotnet/brand/master/logo/dotnet-logo.png" alt="dotnet" height="40"/> 
 <img src="https://banner2.cleanpng.com/20180605/vkg/kisspng-java-runtime-environment-programming-language-prog-java-5b16ff20784b91.6967505015282337604927.jpg" alt="java" width="40" height="40"/> 
-<img src="https://megapng.com/images/bt/ruby-icon-10.png" alt="ruby" width="40" height="40"/>
 <img src="https://www.praevidi.com/files/2214/4788/3983/unity.logo.jpg" alt="unity" width="40" height="40"/>
 </p>
 
