@@ -3,7 +3,7 @@
 [<img height="30" src="https://img.shields.io/badge/x-blue.svg?&style=for-the-badge&logo=X&logoColor=white" />](https://x.com/Matthew__Ramsey)
 
 
-My name is Matthew Ramsey and I'm a Senior Technical Lead at Servant.io out of Nashville, TN. For years, my passion has been mobile and VR/AR development but I've worked in full stack web applications most of my career.
+My name is Matthew Ramsey and I'm a Senior Technical Lead at Servant.io out of Hamilton, GA. For years, my passion has been mobile and VR/AR development but I've worked in full stack web applications most of my career.
 
 ### My Tech Toolbox 🧰
 
