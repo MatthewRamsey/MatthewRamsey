@@ -8,10 +8,11 @@ My name is Matthew Ramsey and I'm a Senior Technical Lead at Servant.io out of H
 ### My Tech Toolbox 🧰
 
 <p align="left">
+<img src="https://www.ncodetechnologies.com/images/icons/react-native-icn(512x512).png" alt="react_native" width="40" height="40"/> 
 <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/app_icon_512.png" alt="flutter" width="40" height="40"/> 
 <img src="https://cdn.iconscout.com/icon/free/png-512/xamarin-282427.png" alt="xamarin" height="40"/> 
 <img src="https://raw.githubusercontent.com/dotnet/brand/master/logo/dotnet-logo.png" alt="dotnet" height="40"/> 
-<img src="https://banner2.cleanpng.com/20180605/vkg/kisspng-java-runtime-environment-programming-language-prog-java-5b16ff20784b91.6967505015282337604927.jpg" alt="java" width="40" height="40"/> 
+<img src="https://e7.pngegg.com/pngimages/123/816/png-clipart-computer-icons-java-%E5%92%96%E5%95%A1%E6%B5%B7%E6%8A%A5%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90-miscellaneous-text.png" alt="java" width="40" height="40"/> 
 <img src="https://www.praevidi.com/files/2214/4788/3983/unity.logo.jpg" alt="unity" width="40" height="40"/>
 </p>
 
@@ -31,10 +32,7 @@ My name is Matthew Ramsey and I'm a Senior Technical Lead at Servant.io out of H
     💰 Personal Finances
   </li>
   <li>
-    🤼 Brazilian Jiu Jitsu
+    🤼 <a href="https://www.f3harriscounty.com" >F3 Harris County</a>
   </li>
   </ul
   
-  
-
-![Visitor Count](https://profile-counter.glitch.me/{MatthewRamsey}/count.svg)
