@@ -1,9 +1,8 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"/> [Bonjour, mon ami! (Hello, my friend!)](https://matthewramsey.github.io/matthewramsey.tech/)
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"/> [Bonjour, mon ami! (Hello, my friend!)](https://matthewbuilds.com)
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mr-tech/)
 [<img height="30" src="https://img.shields.io/badge/x-blue.svg?&style=for-the-badge&logo=X&logoColor=white" />](https://x.com/Matthew__Ramsey)
 
-
-My name is <a href="https://www.matthewbuilds.com" >Matthew Ramsey</a> and I'm a Senior Technical Lead at <a href="https://www.servant.io" >Servant.io</a> out of Hamilton, GA. For years, my passion has been mobile and VR/AR development but I've worked in full stack web applications most of my career.
+My name is <a href="https://www.matthewbuilds.com" >Matthew Ramsey</a> based out of Hamilton, GA. I lead engineers at <a href="https://www.servant.io" >Servant.io</a>, where I focus on building apps, guiding teams, and creating the kind of technical culture that helps engineers grow and deliver well. I’ve bounced between full-stack work, mobile development, and Unity projects over the years, and I’m happiest when I’m solving real problems with tools that actually make sense.
 
 ### My Tech Toolbox 🧰
 
